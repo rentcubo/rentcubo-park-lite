@@ -1,0 +1,323 @@
+
+@media only screen  and (max-width: 1440px) {
+	
+	html { 
+		overflow-x:hidden;
+	}
+
+	.navbar{
+		min-width:100%;
+		overflow-x:hidden;
+	}
+
+	.bg-img:before{
+		min-height:40.47rem;
+		left:-8.2%;
+	}
+
+	.bg_content{
+		max-width:36%;
+		left:25%;
+	}
+
+	.bg_content p{
+		max-width:100%;
+	}
+
+	.bg_content h1{
+		max-width:100%;
+	}
+
+	.click_option{
+		max-width:100%;
+	}
+
+	.bg_content input[type=text]{
+		max-width:100%;
+	}
+
+	.bg_content input[type=text1]{
+		max-width:50%;
+	}
+
+	.bg_content input[type=text2]{
+		max-width:50%;
+	}
+
+	.bg_content button[type=click_option_btn]{
+		max-width:100%;
+	}
+
+	.form-group i{
+		margin:-2.3em 19.5em;
+	}
+
+	.input-group .small{
+		margin:0.7rem 16.3rem;
+	}
+
+	.input-group .i{
+		margin: -0.1em 14.5rem;
+	}
+
+	.bg-img_second:before{
+		margin:142.79rem 0 0 0;
+		left:-8.2%;
+	}
+
+	.bg_content_third{
+		max-width:40%;
+		transform: translate(-45%, 25%);
+	}
+
+	.bg_content_third p {
+		max-width: 100%;
+	}
+
+	.bg_content_third button[type=submit_btn2] {
+		min-width:80%;
+	}
+
+	.center{
+		max-width:100%;
+	}
+
+	.slider{
+  		max-width:100%;
+  		margin: 0;
+	}
+
+	.slick-prev:before,
+	.slick-next:before {
+		display: none;
+	}
+
+	.bg-img_third:before{
+		margin:241rem 0 0 0;
+		left:-8.2%;
+	}
+
+	.page-footer{
+		max-width:100%;
+	}
+
+	.fa-facebook{
+		margin:0;
+	}
+
+	.fa-twitter{
+		margin:0;
+	}
+
+
+	.list-unstyled li a{
+		max-width:100%;
+		margin:0;
+	}
+
+}
+
+
+/*@media only screen and (max-width: 1024px) {*/
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+
+
+	.bg-img:before{
+		min-height:40.47rem;
+		min-width:78%;
+		left:-12%;
+	}
+
+	.bg_content{
+		max-width:50%;
+		left:30%;
+	}
+
+	.bg_content p{
+		max-width:100%;
+	}
+
+	.bg_content h1{
+		max-width:100%;
+	}
+
+	.click_option{
+		max-width:100%;
+	}
+
+	.bg_content input[type=text]{
+		max-width:100%;
+	}
+
+	.bg_content input[type=text1]{
+		max-width:50%;
+	}
+
+	.bg_content input[type=text2]{
+		max-width:50%;
+	}
+
+	.bg_content button[type=click_option_btn]{
+		max-width:100%;
+	}
+
+	.form-group i{
+		margin:-2.3em 19em;
+	}
+
+	.input-group .small{
+		margin:0.7rem 16.1rem;
+	}
+
+	.input-group i{
+		margin:1.3em 9.8em ;
+	}
+
+	.input-group .i{
+		margin:0 14.7rem;
+	}
+
+	.form-group .form-control::placeholder{
+		line-height:1.0;
+	}
+
+	.input-group .form-control_1::placeholder{
+		line-height:1.0;
+		
+	}	
+
+	.input-group .form-control_2::placeholder{
+		line-height: 1.0;
+
+	}
+
+	.container h1{
+		min-width:100%;
+	}
+	
+
+	.container{
+		max-width:100%;
+		margin:0;
+	}
+
+	.container .col{
+		max-width:100%;
+		margin: 0 1.1em;
+	}
+
+	.col div strong{
+		max-width:100%;
+		font-size:1.8em;
+	}
+
+	.col div small{
+		max-width:100%;
+		font-size:1.0em;
+	}
+
+	.bg-img_first{
+		max-width:100%;
+		margin:5rem auto;
+		min-height:37rem;
+	}
+
+	.bg_content_first{
+		max-width:64%;
+		margin:0;
+		padding: 0;
+		transform: translate(0%, 0%);
+		left:3rem;
+		top:1rem;
+	}
+
+	.bg-img_first .bg_content_first .btn{
+		margin: 0 -8.5rem;
+	}
+
+	.bg-img_second{
+		margin:-6rem auto;
+	}
+
+	.bg-img_second:before{
+		margin:121.1rem 0 0 0;
+		left:-10.3%;
+		min-width:78%;
+		min-height:36.1rem;
+	}
+	.bg_content_second{
+		max-width:52%;
+		left: 31%;
+	}
+
+	.bg_content_second h2{
+		max-width:100%;
+	}
+
+	.bg_content_second button[type=submit_btn1]{
+		min-width:81.5%;
+	}
+
+	.sliderhead {
+		max-width:100%;
+		margin: 8rem 0;
+	}
+
+	.slick-slide img{
+		max-width:25%;
+	}
+
+	.sliderimg{
+		margin:-4em 6.5em;
+	}
+
+	.slidertop p{
+		max-width:100%;
+		margin:0 0 5rem 0;
+		padding:0;
+	}
+
+	.slidertop{
+		max-width:100%;
+	}
+
+	.silderbottom{
+		max-width: 100%;
+		margin:0;
+	}
+
+	.bg-img_third{
+		margin-top:5rem;
+	}
+
+	.bg-img_third:before{
+		margin:215.7rem 0 0 0;
+		left:-10.3%;
+		min-width:78%;
+		min-height:36.2rem;
+	}
+	.bg_content_third{
+		max-width:52%;
+		left:28.2%;
+	}
+
+	.bg_content_third h3{
+		max-width:100%;
+	}
+
+	.bg_content_third button[type=submit_btn2]{
+		min-width:81.5%;
+	}
+
+	.page-footer{
+		margin:-4rem 0;
+	}
+
+	.footer-bar{
+		margin:4rem 0;
+		margin-bottom:0;
+	}
+
+}
